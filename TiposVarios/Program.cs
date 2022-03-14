@@ -13,11 +13,7 @@ namespace TiposVarios
             int y = 0xFF2B4A;
             char a = '\u00A9';
             char b = '\u00B6';
-            Console.WriteLine(k);
-            Console.WriteLine(y);
-            Console.WriteLine(x);
-            Console.WriteLine(a);
-            Console.WriteLine(b);
+            Console.WriteLine($"Int K ={k}  Int Y = {y}  Int X = {x}  Char A = {a} Char B = {b}");
 
         }
     }
